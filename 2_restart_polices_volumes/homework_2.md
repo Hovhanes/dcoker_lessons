@@ -3,4 +3,11 @@
 
 1. Create the container which will be read content from the volume
 2. Create a container which will write into the mounted directory
-3. Research docker logs
+
+
+### research
+1. Research docker logs
+
+### additional task for most motivated dudes
+1. listen https://www.youtube.com/watch?v=q92DWs1MwRA
+2. Research and understand the reason for the chapalax, which song was the reason?
